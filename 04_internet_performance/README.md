@@ -1,1 +1,1 @@
-
+This project evaluates internet performance based on speed and ping. It classifies connection quality, identifies fastest and slowest users, and analyzes correlation between speed and latency. Graphs help visualize network performance trends.
