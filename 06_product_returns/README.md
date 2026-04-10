@@ -1,1 +1,2 @@
-This project evaluates vehicle mileage performance. It calculates mileage, average efficiency, best performance day, and variation in mileage. Graphs like line charts, scatter plots, and pie charts are used to visualize fuel usage and distance relationships
+# Order and Return Analysis
+This project analyzes e-commerce order data to understand revenue and return patterns. It calculates total revenue, return loss, return rate, and identifies the most returned products. Visualizations such as bar graphs, pie charts, and histograms help in understanding business performance.
