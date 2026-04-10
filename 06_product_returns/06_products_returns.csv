@@ -1,0 +1,7 @@
+Order_ID,Product,Price,Returned
+101,Shoes,2000,No
+102,Watch,1500,Yes
+103,Shoes,2000,No
+104,Bag,1200,Yes
+105,Watch,1500,No
+106,Bag,1200,No
