@@ -1,1 +1,1 @@
-hgd
+This project evaluates student academic performance using subject marks. It calculates average marks, subject-wise averages, and identifies the topper and lowest scorer. Visualization techniques like bar charts and pie charts are used to compare student performance and subject contribution
