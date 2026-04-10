@@ -1,1 +1,1 @@
-kdhe
+This project analyzes sales data to understand revenue trends. It calculates total and daily revenue, identifies top products, and evaluates performance patterns. Visualization tools like line charts, bar graphs, and pie charts help in business decision-making
